@@ -42,8 +42,6 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
 Wonjun Chang KAIST wj0559@kaist.ac.kr
 Seungwoo Han KAIST preston119@kaist.ac.kr
 
