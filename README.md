@@ -17,6 +17,8 @@ This repository consists of Phase1 and Phase2.
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
+1. convert all the data files including question file to csv format.
+2. Specifically, name the question csv file as question.csv.
 
 ### Executing program
 
@@ -27,9 +29,9 @@ This repository consists of Phase1 and Phase2.
 for example, if time is 18:00 May 24 6 PM now in Korea time, now = 05_24_18
 
 * Phase2
-```
-code blocks for commands
-```
+1. download the jupyter notebook file to google drive 
+2. download the question.csv file, train_data.csv file and test_data.csv file to /content/drive/MyDrive/kaggle/QIA2023/data directory of google drive.
+3. Run all cells in Phase2 folder in order of embed_0.55.ipynb, train_0.55.ipynb, test_naive_0.55.ipynb.
 
 ## Help
 
