@@ -1,10 +1,10 @@
-# Project Title
+# QIA-Hackathon2023
 
-Simple overview of use/purpose.
+Qualcomm-KAIST Innovation Award 2023
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This repository consists of Phase1 and Phase2.
 
 ## Getting Started
 
@@ -21,7 +21,12 @@ An in-depth paragraph about your project and overview of use.
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* Phase1
+1. Run all cells in Phase1.ipynb
+2. basemodel_result.csv will be made to /content/drive/MyDrive/qia-hackathon2023/data/{now}/basemodel_result.csv, where {now} is strftime("%m_%d_%H")
+for example, if time is 18:00 May 24 6 PM now in Korea time, now = 05_24_18
+
+* Phase2
 ```
 code blocks for commands
 ```
@@ -37,8 +42,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Wonjun Chang KAIST wj0559@kaist.ac.kr
+Seungwoo Han KAIST preston119@kaist.ac.kr
 
 ## Version History
 
