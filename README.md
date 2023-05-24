@@ -25,7 +25,7 @@ This repository consists of Phase1 and Phase2.
 
 ### Executing program
 
-* How to run the program
+### How to run the program
 * Phase1
 1. Run all cells in Phase1.ipynb
 2. basemodel_result.csv will be made to /content/drive/MyDrive/qia-hackathon2023/data/{now}/basemodel_result.csv, where {now} is strftime("%m_%d_%H")
