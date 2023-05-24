@@ -10,16 +10,13 @@ This repository consists of Phase1 and Phase2.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * Phase2
 1. google account
 2. colab plus(additional)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-* Phase1
+* Phase2
 1. convert all the data files including question file to csv format.
 2. Specifically, name the question csv file as question.csv.
 
